@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Leo Paapa Tattrah"
   avatar           : "ltattrah_profile.png"
-  bio              : "Lecturer at Kumasi Technical University, epert in Computer Networks, Machine Learning/Deeplearning, Natural Language Processing"
+  bio              : "Lecturer at Kumasi Technical University, Expert in Computer Networks, Machine Learning/Deeplearning, Natural Language Processing"
   location         : "Kumasi, Ghnana"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=J77tYroAAAAJ&hl=en"
+  email            : "leo.paapa@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebok.com/ltattrah
   foursquare       :
-  github           : "academicpages"
+  github           : "ltattrah"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2717-0387"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ltattrah"
   vine             :
   weibo            :
   xing             :
