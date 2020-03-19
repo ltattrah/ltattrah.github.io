@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am highly de"
+title: "Leo Paapa Tattrah's Profile Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
