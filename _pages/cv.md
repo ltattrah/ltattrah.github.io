@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Kwame Nkrumah University of Science And Technology,	2022 (expected) 
+* Master of Philosophy - Computer Science, Kwame Nkrumah University of Science And Technology, 2013   
+* Bachelor of Science - Computer Science, Kwame Nkrumah University of Science and Technology, 2009      
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2015 to date: Lectuer
+  * Kumasi Technical University
+  * Duties included:Teaching and Research
+  * Supervisor: Dr. Mary O. Ansong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2013 to 2018: Adjunct Lectuter
+  * University of Education Winneba, kumasi
+  * Duties included: Teaching and Research
+  * Supervisor: Dr. Adu Gyamfi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Deep Learning
+* Natural Language Processng
+* Linux Server Administration
+* Microsoft Server Administration
+*	Python Programming
+*	Full Stack web development(HTML, CSS, JavaScript-{React Angular}, Python{Flask}, PHP)
+*	Database Administration
+*	Data Analysis
+*	Big Data Analytics 
+• Computer Security (CEH)
+•	
+
 
 Publications
 ======
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 1 slack team
